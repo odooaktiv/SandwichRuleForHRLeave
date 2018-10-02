@@ -11,7 +11,7 @@
          for leave and is coming under the rule where employee has taken 
          leave in midst of two working days. 
     """,
-    'author': "AktivSoftware",
+    'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
     'license': "AGPL-3",
     'category': 'Leave',
