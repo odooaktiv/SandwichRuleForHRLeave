@@ -14,7 +14,7 @@
     'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
     'license': "AGPL-3",
-    'category': 'Leave',
+    'category': 'Generic Modules/Human Resources',
     'version': '11.0.1.0.0',
     'depends': ['hr',
                 'hr_holidays',
